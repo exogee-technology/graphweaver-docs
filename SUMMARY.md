@@ -22,4 +22,5 @@
 * [Admin UI](reference/admin-ui.md)
 * [Backend](reference/backend/README.md)
   * [\_graphweaver Query](reference/backend/\_graphweaver-query.md)
-* [Configuration](reference/configuration.md)
+* [Configuration](reference/configuration/README.md)
+  * [Authentication and Authorisation](reference/configuration/authentication-and-authorisation.md)
